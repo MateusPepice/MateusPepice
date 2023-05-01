@@ -1,9 +1,9 @@
 ## Fala, dev. Me chamo Mateus Pepice! 👋
 
+|
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MateusPepice&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPepice&layout=compact&theme=buefy&hide_border=true" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusPepice)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPepice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| ------------- | ------------- |
 
 - 📚 Estudante universitário de Análise e Desenvolvimento de Sistemas - UNIVEL
 - ❤ Apaixonado por Economia, Política e Física;
