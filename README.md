@@ -3,8 +3,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusPepice)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPepice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- Focado em:
+- 📚 Estudante universitário de Análise e Desenvolvimento de Sistemas - UNIVEL
+- ❤ Apaixonado por Economia, Política e Física;
+- 💻 Atualmente focado em:
 
 
 <div display="inline">
