@@ -14,5 +14,5 @@
 ### Você pode entrar em contato pelo:
 
 <a href="https://www.linkedin.com/in/mateus-pepice-dev/">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the- badge&logo=Instagram&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
