@@ -12,6 +12,9 @@
   <img width= "75" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width= "75" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width= "75" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width= "75" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img width= "75" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+  <img width= "75" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 
 
